@@ -13,6 +13,8 @@ methods.
 
 ## Code Along
 
+Fork and clone this lesson to code along!
+
 In this lesson, we'll be writing a method called `#reverse_each_word` that takes
 in a argument of a sentence as a string, and returns that same sentence with
 each word reversed in place.
